@@ -1,0 +1,16 @@
+[
+    {
+        "name": "project1",
+        "live": "https://kunhyuk.github.io/Project1-blackjack/",
+        "git": "https://github.com/kunhyuk/Project1-blackjack",
+        "image": "https://kunhyuk.github.io/Project1-blackjack/images/tableImage.png"
+    },
+
+    {
+      "name": "project2",
+      "live": "https://twitter-clone-321.herokuapp.com/auth/login",
+      "git": "https://github.com/andrew-merz/Twitter-Clone",
+      "image": "https://user-images.githubusercontent.com/100104797/166345302-1a0408ca-9bbc-40d2-9fe0-f686a95653ba.png"
+    }
+
+  ]
