@@ -1,6 +1,11 @@
 {
     "name": "Kunhyuk Lee",
     "email":" kunhyuk96lee@gmail.com",
-    "headshot": "https://ca.slack-edge.com/T0351JZQ0-U037SH588TF-10f6dee6dd18-48",
-    "bio": "Hi im kunhyuk"
+    "phone": "404 920 9338",
+    "address": "2362 Young America Dr, Lawrenceville, GA 30043",
+    "educationpic":["https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png", "https://ga-shop-production-herokuapp-com.global.ssl.fastly.net/assets/images/logo_1200_by_627_1QIVL.jpg"],
+    "headshot": "https://mail.google.com/mail/u/0?ui=2&ik=5bbf586c1f&attid=0.1.1&permmsgid=msg-f:1733725200894740221&th=180f6de2717946fd&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-DzC3c3lp5ULBNXy_t0JhAHXpdNnJZaQcTm55d0nLEPxbJoPJR2g4qvdRS1n8IJOp8ZdaS7IdfStRobGX9OjECwcm59tdMCQVpyavQNxHUK0MyP-Lp98PhDlw&disp=emb",
+    "bio": "Hello My name is Kunhyuk Lee and I'm software developer! I'm currently stuying with General Assembly SEI class. I've leanred awesome skills and wanted to show my projects to my future employers. I'm also Sernior at Georgia tech and will graduate by December 2022.",
+    "education": ["Georgia Institue of Technology", "General Assembly"],
+    "skills": ["Java", "Javascript", "html", "CSS", "C++", "Express.js", "Node.js", "React.js", "Object-Oriented Programming"]
 }

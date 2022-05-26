@@ -3,14 +3,24 @@
         "name": "project1",
         "live": "https://kunhyuk.github.io/Project1-blackjack/",
         "git": "https://github.com/kunhyuk/Project1-blackjack",
-        "image": "https://kunhyuk.github.io/Project1-blackjack/images/tableImage.png"
+        "image": "https://kunhyuk.github.io/Project1-blackjack/images/tableImage.png",
+        "description": "This is simple Javascript blackjacak game!"
     },
 
     {
       "name": "project2",
       "live": "https://twitter-clone-321.herokuapp.com/auth/login",
       "git": "https://github.com/andrew-merz/Twitter-Clone",
-      "image": "https://user-images.githubusercontent.com/100104797/166345302-1a0408ca-9bbc-40d2-9fe0-f686a95653ba.png"
+      "image": "https://user-images.githubusercontent.com/100104797/166345302-1a0408ca-9bbc-40d2-9fe0-f686a95653ba.png",
+      "description": "This is Twitter Clone app. I made with two teammates and we used React, EJS, and Mongodb. You can login, logout, tweet, comment, etc. Most of features you can expect from Twitter besides likes and retweet."
+    },
+
+    {
+      "name": "project3",
+      "live": " https://nutrition-recipe-app.herokuapp.com/",
+      "git": "https://github.com/kunhyuk/project3_kunhyuk_lee",
+      "image": "https://i.ibb.co/4jxcQXj/screenshot-2022-05-24-114703.png",
+      "description": "This is an application that you can see the nutrtions and recipes of foods you searched. I made it with React and external API."
     }
 
   ]
